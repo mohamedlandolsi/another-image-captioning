@@ -1,0 +1,17 @@
+# Python virtual environment
+image_captioning_env/
+
+# Dataset folder (assuming it's large and downloaded separately)
+flicker8k/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+*.pkl
+*.keras
+*.weights.h5
